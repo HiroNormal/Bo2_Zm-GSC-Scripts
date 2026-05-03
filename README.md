@@ -9,4 +9,3 @@ This repo contains GSC scripts for black ops 2, such as a round timer, a game ti
 
 ## Commands
 The first box command is "fb", then set the desired gun, for example, fb mk2, or fb blunder
-If you want to chain guns, for example, getting mk2 and then blundergun, type fb mk2 | blunder
