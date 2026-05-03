@@ -1,5 +1,5 @@
-# Black-ops-2-GSC-Scripts
-This repo contains GSC scripts for black ops 2 such as a round timer, a game timer, first box and player selection
+# Bo2 Zombies GSC Scripts
+This repo contains GSC scripts for black ops 2, such as a round timer, a game timer, a first box and player selection for motd
 
 ## Install
 1. Win + R
